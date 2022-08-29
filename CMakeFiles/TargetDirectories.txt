@@ -1,0 +1,3 @@
+/home/wy/C/finalproject/CMakeFiles/rebuild_cache.dir
+/home/wy/C/finalproject/CMakeFiles/KmeansSegmentation.dir
+/home/wy/C/finalproject/CMakeFiles/edit_cache.dir
